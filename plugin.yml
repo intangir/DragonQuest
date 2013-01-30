@@ -1,0 +1,6 @@
+name: DragonQuest
+main: com.github.intangir.DragonQuest.DragonQuest
+version: 1.0
+description: Adds a quest to destroy all dragon kind
+author: Intangir
+
